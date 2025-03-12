@@ -2,7 +2,7 @@ import 'dart:io';
 
 void main(){
   ShoppingCart cart = new ShoppingCart();
-  cart.showProduct();
+  cart.showMenu();
 }
 
 class Product{
